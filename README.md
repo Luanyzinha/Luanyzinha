@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Luanyzinha/Luanyzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, sou a Luany
+amo o São paulo
+Adoro jogar vôlei
+Gosto de pintar
+Gosto de conversar com os meus amigos
+Odeio o corinthians
+Adoro pastel e coxinha de frango
+Sou alguém bem simplista
+Sou alguém bem inteligente
+E gosto de escrever 
