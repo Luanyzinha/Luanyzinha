@@ -1,10 +1,1 @@
-Olá, sou a Luany,
-amo o São paulo,
-adoro jogar vôlei,
-gosto de pintar,
-gosto de conversar com os meus amigos,
-odeio o corinthians,
-adoro pastel e coxinha de frango,
-sou alguém bem simplista,
-sou alguém bem inteligente,
-e gosto de escrever :) 
+
